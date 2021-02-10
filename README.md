@@ -1,5 +1,5 @@
 # cache-simulation
-A repository containing a file that simulates different caching algorithms.
+A repository containing a program that simulates different caching algorithms.
 
 A make file is included. Enter `make` while in this repository to compile the program and `make clean` to remove the created files.
 
